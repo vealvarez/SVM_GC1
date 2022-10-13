@@ -1,8 +1,14 @@
-# Machine learning applied to the molecular identification of <i>Acinetobacter baumannii</i> Global Clone 1  
+# PredictBiomarker 
 
-PredictBiomarker.py contains the code used in the manuscript to identify an specific <i>A. baumannii</i> GC1 biomarker using Support Vector Machine.
-
-The file input_files.tar.gz must be uncompressed in the same directory as PredictBiomarker.py. 
+Identification of a specific biomarker for <i>A. baumannii</i> GC1 strains using Support Vector Machine.
 
 ## Author
 Verónica E. Álvarez 
+
+## Synopsis
+PredictBiomarker finds short nucleotide sequences in bacterial genomes that can potentially be used as biomarkers. PredictBiomarker was used in the manuscript "Machine learning applied to the molecular identification of <i>Acinetobacter baumannii </i> Global Clone 1" (Álvarez et. al, 2022) to identify a fragment of the <i>moaCB</i> gene as a specific biomarker for <i>A. baumannii</i> GC1 strains. 
+
+## Quick Start
+<t>1- Download all files at the same directory in your computer </t>
+<t>2- Uncompress bugwas_input.all_rows.binary.tar.gz and graph.nodes.tar.gz files </t>
+3- Run python PredictBiomarker.py
