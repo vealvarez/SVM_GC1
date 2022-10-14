@@ -6,7 +6,7 @@ Identification of a specific biomarker for <i>A. baumannii</i> GC1 strains using
 Verónica E. Álvarez 
 
 ## Synopsis
-PredictBiomarker finds short nucleotide sequences in bacterial genomes that can potentially be used as biomarkers. PredictBiomarker was used in the manuscript "Machine learning applied to the molecular identification of <i>Acinetobacter baumannii </i> Global Clone 1" (Álvarez et. al, 2022) to identify a fragment of the <i>moaCB</i> gene as a specific biomarker for <i>A. baumannii</i> GC1 strains. 
+PredictBiomarker finds short nucleotide sequences in bacterial genomes that can potentially be used as biomarkers. PredictBiomarker was used in the manuscript "Machine learning applied to the molecular identification of <i>Acinetobacter baumannii </i> Global Clone 1" (Álvarez et. al, in revision) to identify a fragment of the <i>moaCB</i> gene as a specific biomarker for <i>A. baumannii</i> GC1 strains. 
 
 ## Quick Start
 1- Download all files at the same directory in your computer
